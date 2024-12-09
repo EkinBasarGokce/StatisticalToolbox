@@ -1,4 +1,4 @@
-# ANOVALR Tool Box and main.py README for ENS505 Term Project
+# ANOVALR Tool Box and main.py README
 
 by Ekin Başar Gökçe
 
